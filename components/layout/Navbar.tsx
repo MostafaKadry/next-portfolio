@@ -66,7 +66,7 @@ const Navbar = () => {
               </motion.a>
               <motion.a
                 whileHover={{ scale: 1.1 }}
-                href="https://drive.google.com/file/d/13BJojw_r_rOz2CAd3Tfd6xDRwVZ-QrAC/view"
+                href="https://drive.google.com/file/d/1cwlUzC3fkWpB43p2lKVO1ot8Jb9LgEv6/view"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-700 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400"
@@ -123,7 +123,7 @@ const Navbar = () => {
                 <Github size={20} />
               </a>
               <a
-                href="https://drive.google.com/file/d/13BJojw_r_rOz2CAd3Tfd6xDRwVZ-QrAC/view"
+                href="https://drive.google.com/file/d/1cwlUzC3fkWpB43p2lKVO1ot8Jb9LgEv6/view"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-700 dark:text-gray-300"
