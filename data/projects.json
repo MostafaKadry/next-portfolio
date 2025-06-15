@@ -1,0 +1,161 @@
+{
+  "fullStackProjects": [
+    {
+      "id": "vendor-hub",
+      "title": "Vendor Hub",
+      "description": "Vendor Hub is a platform that allows vendors to manage their products and orders.",
+      "url": "https://frontend-nsfn.vercel.app/",
+      "icon": "🛍️",
+      "image": "/projects/vendorhub.webp",
+      "technologies": ["Django rest framework","Redis","PostgreSQL","React"],
+      "type": "fullstack",
+      "featured": true
+    },
+    {
+      "id": "verbagpt",
+      "title": "VerbaGPT",
+      "description": "AI-powered ChatGPT clone with a sleek and responsive interface.",
+      "url": "https://verbagpt.azurewebsites.net/",
+      "icon": "🤖",
+      "image": "/projects/verbagpt.webp",
+      "technologies": ["Django", "Python", "OpenAI API", "sqlite3"],
+      "type": "fullstack",
+      "featured": true
+    },
+    {
+      "id": "jobs-platform",
+      "title": "Jobs Platform",
+      "description": "Dynamic job search platform powered by modern APIs and MongoDB.",
+      "url": "https://pm-alliance.vercel.app",
+      "icon": "🌐",
+      "image": "/projects/jobs-platform.webp",
+      "technologies": ["React", "Node.js", "MongoDB", "Express", "Bootstrap"],
+      "type": "fullstack",
+      "featured": true
+    },
+    {
+      "id": "donation-system",
+      "title": "Donation System",
+      "description": "Streamlined platform for secure and efficient donations.",
+      "url": "https://mostafakadry.github.io/fces-donation-system/",
+      "icon": "🌐",
+      "image": "/projects/donation-system.webp",
+      "technologies": ["React", "Node.js", "MongoDB", "Express", "Bootstrap"],
+      "type": "fullstack",
+      "featured": false
+    },
+    {
+      "id": "chat-app",
+      "title": "Chat App",
+      "description": "Real-time chat application built with Socket.io and React.",
+      "url": "https://realtime-chatapp.azurewebsites.net/",
+      "icon": "💬",
+      "image": "/projects/chat-app.webp",
+      "technologies": ["React", "Socket.io", "Node.js", "Express"],
+      "type": "fullstack",
+      "featured": true
+    }
+  ],
+  "frontendProjects": [
+    {
+      "id": "goalrush-com",
+      "title": "GoalRush App (.com)",
+      "description": "Modern sports tracking application with real-time updates.",
+      "url": "https://goalrushapp.com",
+      "icon": "🌐",
+      "image": "/projects/goalrushapp.com.webp",
+      "technologies": [ "Tailwind CSS", "Next.js"],
+      "type": "frontend",
+      "featured": true
+    },
+    {
+      "id": "travelflowhq-com",
+      "title": "TravelFlowHQ (.com)",
+      "description": "Comprehensive travel planning and booking platform.",
+      "url": "https://travelflowhq.com",
+      "icon": "✈️",
+      "image": "/projects/travelflowhq.com.webp",
+      "technologies": [ "Next.js", "Tailwind CSS"],
+      "type": "frontend",
+      "featured": true
+    },
+    {
+      "id": "travelflowhq-net",
+      "title": "TravelFlowHQ (.net)",
+      "description": "Alternative version of the travel planning platform.",
+      "url": "https://travelflowhq.net",
+      "icon": "✈️",
+      "image": "/projects/travelflowhq.net.webp",
+      "technologies": ["Next.js", "Tailwind CSS"],
+      "type": "frontend",
+      "featured": false
+    },
+    {
+      "id": "gojourneyapp",
+      "title": "GoJourneyApp (.net)",
+      "description": "Journey planning and tracking application.",
+      "url": "https://gojourneyapp.net",
+      "icon": "🧭",
+      "image": "/projects/gojourneyapp.net.webp",
+      "technologies": [ "Next.js",  "Tailwind CSS"],
+      "type": "frontend",
+      "featured": false
+    },
+    {
+      "id": "maptrailapp-com",
+      "title": "MapTrailApp (.com)",
+      "description": "Interactive mapping and trail discovery platform.",
+      "url": "https://maptrailapp.com",
+      "icon": "🗺️",
+      "image": "/projects/maptrailapp.com.webp",
+      "technologies": [ "Next.js",  "Tailwind CSS"],
+      "type": "frontend",
+      "featured": true
+    },
+    {
+      "id": "hockeylogix-com",
+      "title": "HockeyLogix (.com)",
+      "description": "Hockey statistics and analytics platform.",
+      "url": "https://hockeylogix.com",
+      "icon": "🏒",
+      "image": "/projects/hockeylogix-com.webp",
+      "technologies": [ "Next.js",  "Tailwind CSS"],
+      "type": "frontend",
+      "featured": true
+    },
+
+    {
+      "id": "german-hospital",
+      "title": "German Hospital Project",
+      "description": "Healthcare management system for German hospital.",
+      "url": "https://goedendag.nettie.nu/",
+      "icon": "🌍",
+      "image": "/projects/german-hospital-project.webp",
+      "technologies": ["HTML5", "CSS3", "JavaScript"],
+      "type": "frontend",
+      "featured": false
+    },
+    {
+      "id": "courses-dashboard",
+      "title": "Courses Dashboard",
+      "description": "Educational course management dashboard.",
+      "url": "https://courses-dashboard-ten.vercel.app/",
+      "icon": "🎓",
+      "image": "/projects/courses-dashboard.webp",
+      "technologies": [ "Next.js",  "Tailwind CSS"],
+      "type": "frontend",
+      "featured": false
+    },
+    {
+      "id": "shopping-store",
+      "title": "Shopping Store",
+      "description": "E-commerce shopping cart built with vanilla JavaScript OOP.",
+      "url": "https://mostafakadry.github.io/ComfyHouse-ShopCart-Vanilla_JS_OOP/",
+      "icon": "🛒",
+      "image": "/projects/shopping-store.webp",
+      "technologies": ["JavaScript", "OOP", "HTML5", "CSS3"],
+      "type": "frontend",
+      "featured": false
+    }
+  ]
+}
