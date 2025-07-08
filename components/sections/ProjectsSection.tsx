@@ -79,7 +79,7 @@ const ProjectsSection = () => {
           viewport={{ once: true, margin: "-100px" }}
           className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 items-stretch"
         >
-          {projectsData.fullStackProjects
+          {[...projectsData.fullStackProjects, ...projectsData.frontendProjects]
             .filter((project) => project.featured)
             .map((project) => (
               <motion.div

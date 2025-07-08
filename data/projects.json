@@ -1,6 +1,17 @@
 {
   "fullStackProjects": [
     {
+      "id": "al-tawi-company",
+      "title": "Al Tawi Construction Company Website",
+      "description": "A modern, responsive website for Al Tawi Construction Company built with Next.js, with multilingual support and smooth animations",
+      "url": "https://www.altawi.org/",
+      "icon": "🌐",
+      "image": "/projects/altawi.jpg",
+      "technologies": ["Next.js (Page Router)", "Tailwind CSS", "Tailwindcss Animate", "SSR", "GTranslate", "React Countup"],
+      "type": "fullstack",
+      "featured": true
+    },
+    {
       "id": "vendor-hub",
       "title": "Vendor Hub",
       "description": "Vendor Hub is a platform that allows vendors to manage their products and orders.",
