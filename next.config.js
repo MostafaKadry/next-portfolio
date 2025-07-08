@@ -1,8 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  distDir: "build",
-  trailingSlash: true,
-  output: 'export',
+  // distDir: "out",
+  // trailingSlash: true,
+  // output: 'export',
   reactStrictMode: true,
   eslint: {
     ignoreDuringBuilds: true,

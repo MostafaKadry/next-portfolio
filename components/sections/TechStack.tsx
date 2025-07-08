@@ -2,7 +2,6 @@
 
 import { motion, Variants } from "framer-motion"
 import { Code, Database, Server, GitBranch, Cpu, Layers } from "lucide-react"
-import { title } from "process"
 
 const TechStack = () => {
   const containerVariants: Variants = {
